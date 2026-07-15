@@ -7,7 +7,7 @@ Solar panels, inverters, batteries, EVs, and electrical products: connect buyers
 ## Download & use
 
 ```bash
-git clone https://github.com/badrpk/bijli-live.git
+git clone https://github.com/badrpk/bijli.git
 cd bijli-live
 ```
 

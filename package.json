@@ -1,5 +1,5 @@
 {
-  "name": "bijli-live",
+  "name": "bijli",
   "private": true,
   "description": "Pakistan electric marketplace monorepo (web + Android)",
   "scripts": {
